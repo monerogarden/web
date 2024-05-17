@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/3 ideas for humans/3.01-monero_rabbithole.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/3 ideas for humans/3.01-monero_rabbithole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/3 ideas for humans/3.01-monero_rabbithole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md"
+                "file": "content/3 ideas for humans/3.01-monero_rabbithole.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "4fc8d4a8f5f32c12",
   "lastOpenFiles": [
+    "content/2 blueprint for geeks/2.00-lets_do_it.md",
+    "content/3 ideas for humans/3.01-monero_rabbithole.md",
+    "content/index.md",
     "content/img/monero-garden-logo.png",
-    "content/3 ideas for humans/3.01_monero-rabbithole.md",
     "content/img",
     "content/New folder",
-    "content/2 blueprint for geeks/2.00-lets_do_it.md",
     "content/1 manual for users/1.17_donate-monero.md",
     "content/1 manual for users/1.16-gift_monero.md",
     "content/1 manual for users/1.15-tip_monero.md",
@@ -170,7 +171,6 @@
     "content/1 manual for users/1.03-be_your_own_bank.md",
     "content/1 manual for users/1.02-get_a_monero_wallet.md",
     "content/1 manual for users/1.01_get-started.md",
-    "content/index.md",
     "README.md",
     "CODE_OF_CONDUCT.md",
     "0.01_welcome-to-monero.md",
