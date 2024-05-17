@@ -1,6 +1,6 @@
 # Monero Garden Code of Conduct
 
-_Version 1.0 (Updated: [Current Date])_
+_Version 1.0 (Updated: May 2024)_
 
 Welcome to Monero Garden, a community project dedicated to sharing knowledge about Monero. By participating, you agree to uphold the following principles to maintain a respectful and cooperative environment. Stay free, stay private, and let's grow together.
 
