@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1 manual for users/1.01_get-started.md",
+                "file": "content/3 ideas for humans/3.01_monero-rabbithole.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1 manual for users/1.01_get-started.md",
+                "file": "content/3 ideas for humans/3.01_monero-rabbithole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1 manual for users/1.01_get-started.md",
+                "file": "content/3 ideas for humans/3.01_monero-rabbithole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1 manual for users/1.01_get-started.md"
+                "file": "content/3 ideas for humans/3.01_monero-rabbithole.md"
               }
             }
           }
@@ -148,32 +148,32 @@
   },
   "active": "4fc8d4a8f5f32c12",
   "lastOpenFiles": [
-    "content/index.md",
-    "README.md",
-    "CODE_OF_CONDUCT.md",
-    "0.01_welcome-to-monero.md",
-    "content/3 ideas for humans/3.01_monero-rabbithole.md",
     "content/2 blueprint for geeks/2.00-lets_do_it.md",
-    "content/LICENSE",
-    "content/3 ideas for humans/2.01_wake-up.md",
     "content/1 manual for users/1.17_donate-monero.md",
-    "content/2 blueprint for geeks/3.01-from_scratch.md",
     "content/1 manual for users/1.16-gift_monero.md",
     "content/1 manual for users/1.15-tip_monero.md",
     "content/1 manual for users/1.14-buy_with_monero.md",
     "content/1 manual for users/1.13-use_monero.md",
-    "content/1 manual for users/1.04-the_seed.md",
-    "content/1 manual for users/1.08-exchange_monero.md",
-    "content/1 manual for users/1.05-seed_storage.md",
-    "content/1 manual for users/1.09-earn_monero.md",
-    "content/1 manual for users/1.11-receive_monero.md",
     "content/1 manual for users/1.12-send_monero.md",
-    "content/1 manual for users/1.07-buy_monero.md",
+    "content/1 manual for users/1.11-receive_monero.md",
     "content/1 manual for users/1.10-mine_monero.md",
+    "content/1 manual for users/1.09-earn_monero.md",
+    "content/1 manual for users/1.08-exchange_monero.md",
+    "content/1 manual for users/1.07-buy_monero.md",
     "content/1 manual for users/1.06-getting_monero.md",
+    "content/1 manual for users/1.05-seed_storage.md",
+    "content/1 manual for users/1.04-the_seed.md",
     "content/1 manual for users/1.03-be_your_own_bank.md",
     "content/1 manual for users/1.02-get_a_monero_wallet.md",
     "content/1 manual for users/1.01_get-started.md",
+    "content/index.md",
+    "content/3 ideas for humans/3.01_monero-rabbithole.md",
+    "README.md",
+    "CODE_OF_CONDUCT.md",
+    "0.01_welcome-to-monero.md",
+    "content/LICENSE",
+    "content/3 ideas for humans/2.01_wake-up.md",
+    "content/2 blueprint for geeks/3.01-from_scratch.md",
     "1-manual-for-users/1.01_get-started.md",
     "1-manual-for-users",
     "content/3 ideas for humans",
