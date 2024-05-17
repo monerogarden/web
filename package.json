@@ -15,7 +15,7 @@
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
     "serve": "npx quartz build --serve",
-    "sync": "npx quartz sync",
+    "sync": "sync_date=$(date +\"%B %d, %Y, %-I:%M %p\") && echo \"Garden sync: $sync_date\" && npx quartz sync -m \"Garden sync: $sync_date\"",
     "cfbuild": "git fetch --unshallow && npx quartz build",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
