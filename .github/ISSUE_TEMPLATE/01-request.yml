@@ -1,0 +1,38 @@
+name: Content Request
+description: Request new content
+title: "[Content]: "
+labels: ["content", "triage"]
+assignees:
+  - anhdres
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to suggest new content!
+
+  - type: textarea
+    id: content
+    attributes:
+      label: Content Description
+      description: Describe the content you would like to see. What is it?
+      placeholder: Describe the content in detail. What do you expect it to provide to users?
+    validations:
+      required: true
+
+  - type: input
+    id: chapter
+    attributes:
+      label: Chapter
+      description: Under which chapter should this content be added?
+      placeholder: Chapter/Subchapter
+      
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this content request, you agree to follow our [Code of Conduct](https://github.com/monerogarden/web/blob/v4/CODE_OF_CONDUCT.md). 
+      options:
+        - label: I have searched for similar content requests
+          required: true
+        - label: I have provided a clear and detailed explanation
+          required: true

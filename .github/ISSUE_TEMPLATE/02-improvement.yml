@@ -1,0 +1,47 @@
+name: Improvement proposal
+description: Propose an improvement to a certain page
+title: "[Improvement]: "
+labels: ["improvement", "triage"]
+assignees:
+  - anhdres
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to propose an improvement!
+
+  - type: input
+    id: link
+    attributes:
+      label: Link to the content that may be improved
+      description: Please, provide a link to the content that you would like to propose an improvement. If this does not apply, leave empty.
+      placeholder: https://monero.garden/section/subsection
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Improvement Description
+      description: What would you like to be improved?
+      placeholder: Describe the proposal in detail.
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution
+      description: How do you think this improvement can be applied?
+      placeholder: Describe the solution in detail.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this improvement proposal, you agree to follow our [Code of Conduct](https://github.com/monerogarden/web/blob/v4/CODE_OF_CONDUCT.md). 
+      options:
+        - label: I have searched for similar improvement proposals
+          required: true
+        - label: I have provided a clear and detailed explanation
+          required: true

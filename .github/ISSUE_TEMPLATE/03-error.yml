@@ -1,0 +1,47 @@
+name: Error report
+description: Report an error
+title: "[Error]: "
+labels: ["error", "triage"]
+assignees:
+  - anhdres
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to report an error!
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Error Description
+      description: What is the error that you found?
+      placeholder: Describe the error in detail.
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Link to the content
+      description: Please, provide a link to the content that contains an error
+      placeholder: https://monero.garden/section/subsection
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution
+      description: How do you think this error can be solved?
+      placeholder: Describe the solution in detail.
+    validations:
+      required: true
+      
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this error report, you agree to follow our [Code of Conduct](https://github.com/monerogarden/web/blob/v4/CODE_OF_CONDUCT.md). 
+      options:
+        - label: I have searched for similar error reports
+          required: true
+        - label: I have provided a clear and detailed explanation
+          required: true
