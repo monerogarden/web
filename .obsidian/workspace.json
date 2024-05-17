@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b10ecec90dea7336",
+        "id": "130c01801150818b",
         "type": "tabs",
         "children": [
           {
-            "id": "12d24e59098300d1",
+            "id": "4fc8d4a8f5f32c12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/3 blueprint for makers/3.00-from_scratch.md",
+                "file": "content/2 blueprint for geeks/2.00-lets_do_it.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/3 blueprint for makers/3.00-from_scratch.md",
+                "file": "content/2 blueprint for geeks/2.00-lets_do_it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/3 blueprint for makers/3.00-from_scratch.md",
+                "file": "content/2 blueprint for geeks/2.00-lets_do_it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/3 blueprint for makers/3.00-from_scratch.md"
+                "file": "content/2 blueprint for geeks/2.00-lets_do_it.md"
               }
             }
           }
@@ -146,36 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12d24e59098300d1",
+  "active": "4fc8d4a8f5f32c12",
   "lastOpenFiles": [
+    "content/LICENSE",
+    "content/3 ideas for humans/3.01_monero-rabbithole.md",
     "content/index.md",
-    "content/3 blueprint for makers/3.00-from_scratch.md",
-    "content/3 blueprint for makers/51-percent-attack.md",
-    "content/3 blueprint for makers/3.01_money-is-a-battery.md",
-    "content/3 blueprint for makers/double spend.md",
-    "content/2 ideas for humans/2.00_stop.md",
-    "content/3 blueprint for makers/2.26_view-keys.md",
-    "content/2 ideas for humans/2.01_wake-up.md",
-    "content/2 ideas for humans/2.06_personal-choice.md",
-    "content/2 ideas for humans/2.13_fresh-start.md",
-    "content/2 ideas for humans/2.14_trying-things.md",
-    "content/2 ideas for humans/2.14.01_ash-experiment.md",
-    "content/2 ideas for humans/2.14.02_wisdom-of-the-crowds.md",
-    "content/2 ideas for humans/2.16_strings-attached.md",
-    "content/2 ideas for humans/2.17_adoption.md",
+    "content/2 blueprint for geeks/2.00-lets_do_it.md",
+    "content/3 ideas for humans/2.01_wake-up.md",
+    "content/1 manual for users/1.17_donate-monero.md",
+    "content/2 blueprint for geeks/3.01-from_scratch.md",
+    "content/1 manual for users/1.16-gift_monero.md",
+    "content/1 manual for users/1.15-tip_monero.md",
+    "content/1 manual for users/1.14-buy_with_monero.md",
+    "content/1 manual for users/1.13-use_monero.md",
+    "content/1 manual for users/1.04-the_seed.md",
+    "0.01_welcome-to-monero.md",
+    "content/1 manual for users/1.08-exchange_monero.md",
+    "content/1 manual for users/1.05-seed_storage.md",
+    "content/1 manual for users/1.09-earn_monero.md",
+    "content/1 manual for users/1.11-receive_monero.md",
+    "content/1 manual for users/1.12-send_monero.md",
+    "content/1 manual for users/1.07-buy_monero.md",
+    "content/1 manual for users/1.10-mine_monero.md",
+    "content/1 manual for users/1.06-getting_monero.md",
+    "content/1 manual for users/1.03-be_your_own_bank.md",
+    "content/1 manual for users/1.02-get_a_monero_wallet.md",
     "content/1 manual for users/1.01_get-started.md",
-    "content/2 ideas for humans/borderless money is better money.md",
-    "content/2 ideas for humans/volatility.md",
-    "content/2 ideas for humans/voice-and-exit.md",
-    "content/2 ideas for humans/unrealized gains tax.md",
-    "content/2 ideas for humans/trustless.md",
-    "content/2 ideas for humans/tor-of-money.md",
-    "content/2 ideas for humans/simone.md",
-    "content/2 ideas for humans/set-on-stone.md",
-    "content/2 ideas for humans/saving.md",
-    "content/2 ideas for humans/principles.md",
-    "content/2 ideas for humans",
-    "content/3 blueprint for makers",
+    "1-manual-for-users/1.01_get-started.md",
+    "1-manual-for-users",
+    "content/2 blueprint for geeks/3.02-money_is_a_battery.md",
+    "content/3 ideas for humans",
+    "content/2 blueprint for geeks",
     "content/1-for-users",
     "content/1 manual for users"
   ]
