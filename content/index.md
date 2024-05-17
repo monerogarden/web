@@ -1,13 +1,14 @@
 ---
 title: Welcome to Monero Garden
 ---
+# Welcome to the garden
 
-Take a look at the [[scope]] which is another file.
+Imagine yourself crossing a pair of low rusty gates. They’re fixed open, and on the side of one of them you notice a little brass sign that reads *The Monero Garden*. You start to notice [the subtle noises](https://mynoise.net/NoiseMachines/japaneseGardenSoundscapeGenerator.php) of unseen birds, the waves of foliage swaying with the breeze.  In front of you there’s a worn wooden sign, with a carved map. It looks like a maze of interconnected lines at first glance, like many things in life do, but upon further inspection, you notice there are three main paths to take. They’re labeled:
 
-The Monero Garden would initially be a website available at monero.garden, that worked as a clean and friendly space to start someone's Monero journey. Is a resource I wished many times existed when I told someone about Monero. The naming has two reasons: it acts as a Monero kindergarten of sorts, the starting point of your education, where you learn without any dread; but also as a real garden, with paths you can graciously take and effortlessly stroll at your own pace while discovering new things on the way.
+| [How to use it](1%20the%20manual%20for%20users/1.01_get-started.md)| [Why it’s important](2%20the%20manifest%20for%20believers/2.00_stop.md) | [How it works](3%20the%20blueprint%20for%20makers/3.00.md) |
+| --- | --- | --- |
+| If you just need to start using Monero, without dwelling into the explanations of how it works below the hood or why it’s designed the way it is, start here. | Monero has some very special properties that may be very useful in shaping a different world. Luckily, this path will kick your mind into motion. | This path will take you uphill into the inner workings of Monero. Let’s create digital cash from scratch, one cog at a time. |
 
-Its language, both visual and writing, should be approachable for a 11 year old and above. Trying my best to keep it clean of technical wording, yet making it engaging for an adult as well. It's a difficult balance but I think it's worth pursuit it.
+There’s no correct or wrong way to visit this garden. Three narrow paths of dry soil and scattered pebbles lay in front of you, surrounded by lush plants you haven’t seen before. You gaze at the descriptions, already feeling a little spike in curiosity when reading one of them.
 
-I want to try a different approach to the rest of Monero content I've seen so far, kind of a Choose Your Own Adventure book, where the questions that pop inside the reader's head guide the consumption of the material, and not presenting (if possible) information that wasn't felt the need for. The aim is relevancy, which should maximize retention and engagement.
-
-I believe that the pre-adolescents are specially important to talk to. They are starting their financial life earlier and earlier, the boundaries of real money and virtual money are going to be as dilluted as ever, so if they find Monero soon enough, they could be a strong agent of change and help avoid the dystopian version of that merge. Believe it or not, we (I'm older than 40 now) are not the future anymore. Luckily we're still the present, so there's a lot we can do!
+**Click away, and enjoy.**
