@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/3 ideas for humans/3.01-monero_rabbithole.md",
+                "file": "content/1 manual for users/1.03-be_your_own_bank.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/3 ideas for humans/3.01-monero_rabbithole.md",
+                "file": "content/1 manual for users/1.03-be_your_own_bank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/3 ideas for humans/3.01-monero_rabbithole.md",
+                "file": "content/1 manual for users/1.03-be_your_own_bank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/3 ideas for humans/3.01-monero_rabbithole.md"
+                "file": "content/1 manual for users/1.03-be_your_own_bank.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "4fc8d4a8f5f32c12",
   "lastOpenFiles": [
-    "content/2 blueprint for geeks/2.00-lets_do_it.md",
     "content/3 ideas for humans/3.01-monero_rabbithole.md",
+    "content/2 blueprint for geeks/2.00-lets_do_it.md",
     "content/index.md",
     "content/img/monero-garden-logo.png",
     "content/img",
