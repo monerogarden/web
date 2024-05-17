@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "useMarkdownLinks": true
 }
