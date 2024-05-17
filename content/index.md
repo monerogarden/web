@@ -1,8 +1,8 @@
 ---
-title: Welcome to the Monero Garden
+title: Welcome to the garden
 ---
-Imagine yourself crossing a pair of low rusty gates. They’re wide open, and on the side of one of them you notice a little brass sign that reads *Monero Garden*. You start to notice [the subtle noises](https://mynoise.net/NoiseMachines/japaneseGardenSoundscapeGenerator.php) of unseen birds, the waves of foliage swaying with the breeze.  In front of you there’s a worn wooden sign, with a carved map. It looks like a maze of interconnected lines at first glance, like many things in life do, but upon further inspection, you notice there are three main paths to take. They’re labeled:
 ![](monero-garden-logo.png)
+Imagine yourself crossing a pair of low rusty gates. They’re wide open, and on the side of one of them you notice a little brass sign that reads *Monero Garden*. You start to notice [the subtle noises](https://mynoise.net/NoiseMachines/japaneseGardenSoundscapeGenerator.php) of unseen birds, the waves of foliage swaying with the breeze.  In front of you there’s a worn wooden sign, with a carved map. It looks like a maze of interconnected lines at first glance, like many things in life do, but upon further inspection, you notice there are three main paths to take. They’re labeled:
 
 | [How to use it](1.01_get-started.md)                                                                                                 | [How it works](2.00-lets_do_it.md)                                                       | [Why it’s important](3.01_monero-rabbithole.md)                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
