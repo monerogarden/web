@@ -8,6 +8,7 @@ import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
+import Backlinks from "./Backlinks"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -207,6 +208,15 @@ export function renderPage(
       {right.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
+
+      <div class="backlinks">
+        <h3>About</h3>
+        <ul class="overflow">
+          <li style="margin-bottom: 1em;">Monero garden is a community project by <a href="">anhdres</a> where you can learn about Monero.</li>
+          <li><a target="_blank" href="https://github.com/monerogarden">Github</a></li>
+          <li><a target="_blank" href="https://matrix.to/#/#monerogarden:monero.social">Matrix</a></li>
+        </ul>
+      </div>
     </div>
   )
 
