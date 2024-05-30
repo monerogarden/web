@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/2 blueprint for geeks/2.09-miners.md",
+                "file": "content/2 blueprint for geeks/2.46-fork.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/2 blueprint for geeks/2.09-miners.md",
+                "file": "content/2 blueprint for geeks/2.46-fork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/2 blueprint for geeks/2.09-miners.md",
+                "file": "content/2 blueprint for geeks/2.46-fork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/2 blueprint for geeks/2.09-miners.md"
+                "file": "content/2 blueprint for geeks/2.46-fork.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,32 +147,32 @@
   },
   "active": "9212bbe3de6c80ae",
   "lastOpenFiles": [
-    "content/2 blueprint for geeks/2.39-spam.md",
-    "content/2 blueprint for geeks/2.38-dynamic_blocks.md",
-    "content/2 blueprint for geeks/2.37_ringct.md",
-    "content/2 blueprint for geeks/2.36-decoy_selection.md",
-    "content/2 blueprint for geeks/2.35-ring_signatures.md",
-    "content/2 blueprint for geeks/2.34-sender_privacy.md",
-    "content/2 blueprint for geeks/2.33-utxos.md",
-    "content/2 blueprint for geeks/2.32-quick_wallets.md",
-    "content/2 blueprint for geeks/2.31-subaddresses.md",
-    "content/2 blueprint for geeks/2.30-accounts.md",
-    "content/2 blueprint for geeks/2.29-address_reuse.md",
+    "content/2 blueprint for geeks/2.47-randomx.md",
+    "content/2 blueprint for geeks/2.46-fork.md",
+    "content/2 blueprint for geeks/2.45-mempool.md",
+    "content/2 blueprint for geeks/2.44-difficulty_adjustment.md",
+    "content/2 blueprint for geeks/2.43-block_time.md",
+    "content/2 blueprint for geeks/2.42-fees.md",
+    "content/2 blueprint for geeks/2.41-asymptotic.md",
+    "content/2 blueprint for geeks/2.40-tail_emission.md",
+    "content/2 blueprint for geeks/2.39-emission_curve.md",
+    "content/2 blueprint for geeks/2.38-spam.md",
+    "content/2 blueprint for geeks/2.37-dynamic_blocks.md",
+    "content/2 blueprint for geeks/2.36_ringct.md",
+    "content/2 blueprint for geeks/2.35-decoy_selection.md",
+    "content/2 blueprint for geeks/2.34-ring_signatures.md",
+    "content/2 blueprint for geeks/2.33-sender_privacy.md",
+    "content/2 blueprint for geeks/2.32-utxos.md",
+    "content/2 blueprint for geeks/2.31-quick_wallets.md",
+    "content/2 blueprint for geeks/2.30-subaddresses.md",
+    "content/2 blueprint for geeks/2.29-accounts.md",
     "content/2 blueprint for geeks/2.28-full_wallet.md",
-    "content/2 blueprint for geeks/2.11-blockchain.md",
     "content/2 blueprint for geeks/2.27-bizantine_generals.md",
-    "content/2 blueprint for geeks/2.12-hashes.md",
-    "content/2 blueprint for geeks/2.13-nonces.md",
     "content/2 blueprint for geeks/2.26-clock.md",
     "content/2 blueprint for geeks/2.25-nodes.md",
     "content/2 blueprint for geeks/2.24-consensus.md",
     "content/2 blueprint for geeks/2.23-address_reuse.md",
-    "content/2 blueprint for geeks/2.22-stealth_addresses.md",
-    "content/2 blueprint for geeks/2.21-addresses.md",
-    "content/2 blueprint for geeks/2.10-money_ledger.md",
-    "content/2 blueprint for geeks/2.09-miners.md",
-    "content/2 blueprint for geeks/2.08-proof.md",
-    "content/2 blueprint for geeks/2.07-scarcity.md",
+    "content/2 blueprint for geeks/2.29-address_reuse.md",
     "3 the blueprint for makers",
     "content/img/monero-garden-logo.png",
     "content/img",
