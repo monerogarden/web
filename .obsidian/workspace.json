@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/2 blueprint for geeks/2.19-from_keys_to_seeds.md",
+                "file": "content/2 blueprint for geeks/2.09-miners.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/2 blueprint for geeks/2.19-from_keys_to_seeds.md",
+                "file": "content/2 blueprint for geeks/2.09-miners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/2 blueprint for geeks/2.19-from_keys_to_seeds.md",
+                "file": "content/2 blueprint for geeks/2.09-miners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/2 blueprint for geeks/2.19-from_keys_to_seeds.md"
+                "file": "content/2 blueprint for geeks/2.09-miners.md"
               }
             }
           }
@@ -147,6 +147,17 @@
   },
   "active": "9212bbe3de6c80ae",
   "lastOpenFiles": [
+    "content/2 blueprint for geeks/2.10-money_ledger.md",
+    "content/2 blueprint for geeks/2.09-miners.md",
+    "content/2 blueprint for geeks/2.08-proof.md",
+    "content/2 blueprint for geeks/2.07-scarcity.md",
+    "content/2 blueprint for geeks/2.06-how_much_money.md",
+    "content/2 blueprint for geeks/2.05-value_vs_price.md",
+    "content/2 blueprint for geeks/2.04-money_rules.md",
+    "content/2 blueprint for geeks/2.03-good_money.md",
+    "content/2 blueprint for geeks/2.02-money_is_a_battery.md",
+    "content/2 blueprint for geeks/2.01-lets_do_it.md",
+    "content/2 blueprint for geeks/2.19-from_keys_to_seeds.md",
     "content/2 blueprint for geeks/2.32-utxos.md",
     "content/2 blueprint for geeks/2.18-public_key.md",
     "content/2 blueprint for geeks/2.46-fork.md",
@@ -162,17 +173,6 @@
     "content/2 blueprint for geeks/2.37-dynamic_blocks.md",
     "content/2 blueprint for geeks/2.36_ringct.md",
     "content/2 blueprint for geeks/2.35-decoy_selection.md",
-    "content/2 blueprint for geeks/2.34-ring_signatures.md",
-    "content/2 blueprint for geeks/2.33-sender_privacy.md",
-    "content/2 blueprint for geeks/2.31-quick_wallets.md",
-    "content/2 blueprint for geeks/2.30-subaddresses.md",
-    "content/2 blueprint for geeks/2.29-accounts.md",
-    "content/2 blueprint for geeks/2.28-full_wallet.md",
-    "content/2 blueprint for geeks/2.27-bizantine_generals.md",
-    "content/2 blueprint for geeks/2.26-clock.md",
-    "content/2 blueprint for geeks/2.25-nodes.md",
-    "content/2 blueprint for geeks/2.24-consensus.md",
-    "content/2 blueprint for geeks/2.23-address_reuse.md",
     "3 the blueprint for makers",
     "content/img/monero-garden-logo.png",
     "content/img",
