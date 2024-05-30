@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/2 blueprint for geeks/2.46-fork.md",
+                "file": "content/2 blueprint for geeks/2.19-from_keys_to_seeds.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/2 blueprint for geeks/2.46-fork.md",
+                "file": "content/2 blueprint for geeks/2.19-from_keys_to_seeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/2 blueprint for geeks/2.46-fork.md",
+                "file": "content/2 blueprint for geeks/2.19-from_keys_to_seeds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/2 blueprint for geeks/2.46-fork.md"
+                "file": "content/2 blueprint for geeks/2.19-from_keys_to_seeds.md"
               }
             }
           }
@@ -147,8 +147,10 @@
   },
   "active": "9212bbe3de6c80ae",
   "lastOpenFiles": [
-    "content/2 blueprint for geeks/2.47-randomx.md",
+    "content/2 blueprint for geeks/2.32-utxos.md",
+    "content/2 blueprint for geeks/2.18-public_key.md",
     "content/2 blueprint for geeks/2.46-fork.md",
+    "content/2 blueprint for geeks/2.47-randomx.md",
     "content/2 blueprint for geeks/2.45-mempool.md",
     "content/2 blueprint for geeks/2.44-difficulty_adjustment.md",
     "content/2 blueprint for geeks/2.43-block_time.md",
@@ -162,7 +164,6 @@
     "content/2 blueprint for geeks/2.35-decoy_selection.md",
     "content/2 blueprint for geeks/2.34-ring_signatures.md",
     "content/2 blueprint for geeks/2.33-sender_privacy.md",
-    "content/2 blueprint for geeks/2.32-utxos.md",
     "content/2 blueprint for geeks/2.31-quick_wallets.md",
     "content/2 blueprint for geeks/2.30-subaddresses.md",
     "content/2 blueprint for geeks/2.29-accounts.md",
@@ -172,7 +173,6 @@
     "content/2 blueprint for geeks/2.25-nodes.md",
     "content/2 blueprint for geeks/2.24-consensus.md",
     "content/2 blueprint for geeks/2.23-address_reuse.md",
-    "content/2 blueprint for geeks/2.29-address_reuse.md",
     "3 the blueprint for makers",
     "content/img/monero-garden-logo.png",
     "content/img",
