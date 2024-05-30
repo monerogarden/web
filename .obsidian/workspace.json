@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "130c01801150818b",
+        "id": "085a50ab0a9e4662",
         "type": "tabs",
         "children": [
           {
-            "id": "4fc8d4a8f5f32c12",
+            "id": "9212bbe3de6c80ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/2 blueprint for geeks/2.09-miners.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/2 blueprint for geeks/2.09-miners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/2 blueprint for geeks/2.09-miners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md"
+                "file": "content/2 blueprint for geeks/2.09-miners.md"
               }
             }
           }
@@ -146,37 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fc8d4a8f5f32c12",
+  "active": "9212bbe3de6c80ae",
   "lastOpenFiles": [
-    "content/1 manual for users/1.06-getting_monero.md",
-    "content/1 manual for users/1.17_donate-monero.md",
-    "content/1 manual for users/1.16-gift_monero.md",
-    "content/1 manual for users/1.15-tip_monero.md",
-    "content/1 manual for users/1.14-buy_with_monero.md",
-    "content/1 manual for users/1.13-use_monero.md",
-    "content/1 manual for users/1.12-send_monero.md",
-    "content/1 manual for users/1.10-mine_monero.md",
-    "content/1 manual for users/1.09-earn_monero.md",
-    "content/1 manual for users/1.11-receive_monero.md",
-    "content/1 manual for users/1.08-exchange_monero.md",
-    "content/1 manual for users/1.07-buy_monero.md",
-    "content/1 manual for users/1.05-seed_storage.md",
-    "content/1 manual for users/1.03-be_your_own_bank.md",
-    "content/3 notes for humans/3.01-monero_rabbithole.md",
-    "content/2 blueprint for geeks/2.00-lets_do_it.md",
-    "content/index.md",
+    "content/2 blueprint for geeks/2.39-spam.md",
+    "content/2 blueprint for geeks/2.38-dynamic_blocks.md",
+    "content/2 blueprint for geeks/2.37_ringct.md",
+    "content/2 blueprint for geeks/2.36-decoy_selection.md",
+    "content/2 blueprint for geeks/2.35-ring_signatures.md",
+    "content/2 blueprint for geeks/2.34-sender_privacy.md",
+    "content/2 blueprint for geeks/2.33-utxos.md",
+    "content/2 blueprint for geeks/2.32-quick_wallets.md",
+    "content/2 blueprint for geeks/2.31-subaddresses.md",
+    "content/2 blueprint for geeks/2.30-accounts.md",
+    "content/2 blueprint for geeks/2.29-address_reuse.md",
+    "content/2 blueprint for geeks/2.28-full_wallet.md",
+    "content/2 blueprint for geeks/2.11-blockchain.md",
+    "content/2 blueprint for geeks/2.27-bizantine_generals.md",
+    "content/2 blueprint for geeks/2.12-hashes.md",
+    "content/2 blueprint for geeks/2.13-nonces.md",
+    "content/2 blueprint for geeks/2.26-clock.md",
+    "content/2 blueprint for geeks/2.25-nodes.md",
+    "content/2 blueprint for geeks/2.24-consensus.md",
+    "content/2 blueprint for geeks/2.23-address_reuse.md",
+    "content/2 blueprint for geeks/2.22-stealth_addresses.md",
+    "content/2 blueprint for geeks/2.21-addresses.md",
+    "content/2 blueprint for geeks/2.10-money_ledger.md",
+    "content/2 blueprint for geeks/2.09-miners.md",
+    "content/2 blueprint for geeks/2.08-proof.md",
+    "content/2 blueprint for geeks/2.07-scarcity.md",
+    "3 the blueprint for makers",
     "content/img/monero-garden-logo.png",
     "content/img",
     "content/New folder",
-    "content/1 manual for users/1.04-the_seed.md",
-    "content/1 manual for users/1.02-get_a_monero_wallet.md",
-    "content/1 manual for users/1.01_get-started.md",
-    "README.md",
-    "CODE_OF_CONDUCT.md",
-    "0.01_welcome-to-monero.md",
     "content/LICENSE",
-    "content/3 ideas for humans/2.01_wake-up.md",
-    "content/2 blueprint for geeks/3.01-from_scratch.md",
     "1-manual-for-users",
     "content/3 notes for humans",
     "content/2 blueprint for geeks",

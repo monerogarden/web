@@ -5,7 +5,7 @@ Imagine yourself crossing a pair of low rusty gates. They’re wide open, and on
 ## [The manual for users](1.01_get-started.md)
 *(How to use it)*
 If you just need to start using Monero, without dwelling into the explanations of how it works below the hood or why it’s designed the way it is, start here.
-## [The blueprint for geeks](2.00-lets_do_it.md)
+## [The blueprint for geeks](2.01-lets_do_it.md)
 *(How it works)*
 This path will take you uphill into the inner workings of Monero. Let’s create digital cash from scratch, one cog at a time.
 ## [The notes for humans](3.01-monero_rabbithole.md)
