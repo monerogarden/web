@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1 manual for users/1.17_donate-monero.md",
+                "file": "content/3 notes for humans/3.01-wake_up.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1 manual for users/1.17_donate-monero.md"
+                "file": "content/3 notes for humans/3.01-wake_up.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1 manual for users/1.17_donate-monero.md",
+                "file": "content/3 notes for humans/3.01-wake_up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1 manual for users/1.17_donate-monero.md",
+                "file": "content/3 notes for humans/3.01-wake_up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +167,23 @@
   },
   "active": "ce369752e9e4cfab",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/3 notes for humans/3.11-freedom_of_thought.md",
+    "content/3 notes for humans/3.10-pressure_valve.md",
+    "content/3 notes for humans/3.09-strings_attached.md",
+    "content/3 notes for humans/3.08-wisdom_of_the_crowd.md",
+    "content/3 notes for humans/3.07-honest_opinion.md",
+    "content/3 notes for humans/3.06-trying_things.md",
+    "content/3 notes for humans/3.05-fresh_start.md",
+    "content/3 notes for humans/3.04-personal_choice.md",
+    "2.05-value.md",
+    "2.02_money-is-a-battery.md",
+    "2.01_money-is-a-battery.md",
+    "content/3 notes for humans/3.03-is_this_money.md",
+    "content/3 notes for humans/3.02-savings.md",
+    "content/3 notes for humans/3.01-wake_up.md",
+    "content/2 blueprint for geeks/2.02-money_is_a_battery.md",
+    "content/1 manual for users/1.17_donate-monero.md",
     "content/2 blueprint for geeks/2.06-how_much_money.md",
     "content/2 blueprint for geeks/2.09-miners.md",
     "content/2 blueprint for geeks/2.10-money_ledger.md",
@@ -175,24 +192,7 @@
     "content/2 blueprint for geeks/2.05-value_vs_price.md",
     "content/2 blueprint for geeks/2.04-money_rules.md",
     "content/2 blueprint for geeks/2.03-good_money.md",
-    "content/2 blueprint for geeks/2.02-money_is_a_battery.md",
     "content/2 blueprint for geeks/2.01-lets_do_it.md",
-    "content/2 blueprint for geeks/2.19-from_keys_to_seeds.md",
-    "content/2 blueprint for geeks/2.32-utxos.md",
-    "content/2 blueprint for geeks/2.18-public_key.md",
-    "content/2 blueprint for geeks/2.46-fork.md",
-    "content/2 blueprint for geeks/2.47-randomx.md",
-    "content/2 blueprint for geeks/2.45-mempool.md",
-    "content/2 blueprint for geeks/2.44-difficulty_adjustment.md",
-    "content/2 blueprint for geeks/2.43-block_time.md",
-    "content/2 blueprint for geeks/2.42-fees.md",
-    "content/2 blueprint for geeks/2.41-asymptotic.md",
-    "content/2 blueprint for geeks/2.40-tail_emission.md",
-    "content/2 blueprint for geeks/2.39-emission_curve.md",
-    "content/2 blueprint for geeks/2.38-spam.md",
-    "content/2 blueprint for geeks/2.37-dynamic_blocks.md",
-    "content/2 blueprint for geeks/2.36_ringct.md",
-    "content/2 blueprint for geeks/2.35-decoy_selection.md",
     "3 the blueprint for makers",
     "content/img/monero-garden-logo.png",
     "content/img",

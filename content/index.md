@@ -8,7 +8,7 @@ If you just need to start using Monero, without dwelling into the explanations o
 ## [The blueprint for geeks](2.01-lets_do_it.md)
 *(How it works)*
 This path will take you uphill into the inner workings of Monero. Let’s create digital cash from scratch, one cog at a time.
-## [The notes for humans](3.01-monero_rabbithole.md)
+## [The notes for humans](3.01-wake_up.md)
 *(Why it matters)*
 Monero has some very special properties that may be very useful in shaping a different world. Luckily, this path will kick your mind into motion.
 
