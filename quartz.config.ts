@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Monero Garden 🪴",
+    pageTitle: "Monero Garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
