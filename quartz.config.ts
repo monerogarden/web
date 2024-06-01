@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Chivo",
-        body: "EB Garamond",
+        body: "Lora",
         code: "Chivo Mono",
       },
       colors: {
