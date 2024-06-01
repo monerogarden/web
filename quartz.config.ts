@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Rubik",
-        body: "Ibarra Real Nova",
+        header: "Chivo",
+        body: "EB Garamond",
         code: "Chivo Mono",
       },
       colors: {
