@@ -1,6 +1,7 @@
 @use "./variables.scss" as *;
 @use "./syntax.scss";
 @use "./callouts.scss";
+@use "./fonts.scss";
 
 html {
   scroll-behavior: smooth;
@@ -8,6 +9,7 @@ html {
   overflow-x: hidden;
   width: 100vw;
 }
+
 
 body,
 section {

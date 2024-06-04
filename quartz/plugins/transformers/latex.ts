@@ -26,12 +26,12 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
         return {
           css: [
             // base css
-            "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css",
+            "/static/cdnjs/katex.min.css",
           ],
           js: [
             {
               // fix copy behaviour: https://github.com/KaTeX/KaTeX/blob/main/contrib/copy-tex/README.md
-              src: "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/copy-tex.min.js",
+              src: "/static/cdnjs/copy-tex.min.js",
               loadTime: "afterDOMReady",
               contentType: "external",
             },
