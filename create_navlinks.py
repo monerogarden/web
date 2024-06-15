@@ -40,15 +40,20 @@ def add_navigation_links(subfolder, files):
             f.seek(0)
             f.write(content)
             f.truncate()
+            
+            print(f"[INFO] Processed file: {file_path}, added navigation links.")
         
         # Open the file again in append mode to add new navigation links
         with open(file_path, 'a') as f:
             f.write(nav_links)
 
 def process_folder(base_folder):
+    print(f"[INFO] Starting to process the base folder: {base_folder}")
     subfolders_files = list_subfolders_and_files(base_folder)
     for subfolder, files in subfolders_files.items():
+        print(f"[INFO] Processing subfolder: {subfolder}")
         add_navigation_links(subfolder, files)
+    print(f"[INFO] Finished processing the base folder: {base_folder}")
 
 if __name__ == "__main__":
     base_folder = "content"
