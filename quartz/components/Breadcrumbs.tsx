@@ -94,7 +94,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
         // Try to resolve frontmatter folder title
         const currentFile = folderIndex?.get(slugParts.slice(0, i + 1).join("/"))
         if (currentFile) {
-          const title = currentFile.frontmatter!.title
+          const title = currentFile.frontmatter!.title.replace(/^\d+\.\d+\s*/, '')
           if (title !== "index") {
             curPathSegment = title
           }
@@ -116,7 +116,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       // Add current file to crumb (can directly use frontmatter title)
       if (options.showCurrentPage && slugParts.at(-1) !== "index") {
         crumbs.push({
-          displayName: fileData.frontmatter!.title,
+          displayName: fileData.frontmatter!.title.replace(/^\d+\.\d+\s*/, ''),
           path: "",
         })
       }

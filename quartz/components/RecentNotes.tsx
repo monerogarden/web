@@ -47,7 +47,7 @@ export default ((userOpts?: Partial<Options>) => {
                   <div class="desc">
                     <h3>
                       <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                        {title}
+                        {title.replace(/^\d+\.\d+\s*/, '')}
                       </a>
                     </h3>
                   </div>

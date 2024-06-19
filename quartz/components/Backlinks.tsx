@@ -20,7 +20,7 @@ const Backlinks: QuartzComponent = ({
           backlinkFiles.map((f) => (
             <li>
               <a href={resolveRelative(fileData.slug!, f.slug!)} class="internal">
-                {f.frontmatter?.title}
+                {f.frontmatter?.title.replace(/^\d+\.\d+\s*/, '')}
               </a>
             </li>
           ))

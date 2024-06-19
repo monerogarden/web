@@ -50,22 +50,23 @@ export function getFullSlug(window: Window): FullSlug {
 function sluggify(s: string): string {
   return s
     .split("/")
-    .map((segment) =>
-      segment
+    .map((segment) => 
+      stripOrderPrefix(segment) // Apply stripping here
         .replace(/\s/g, "-")
         .replace(/&/g, "-and-")
         .replace(/%/g, "-percent")
         .replace(/\?/g, "")
-        .replace(/#/g, ""),
+        .replace(/#/g, "")
     )
     .join("/") // always use / as sep
     .replace(/\/$/, "")
 }
 
+
 export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
   fp = stripSlashes(fp) as FilePath
   let ext = _getFileExtension(fp)
-  const withoutFileExt = fp.replace(new RegExp(ext + "$"), "")
+  const withoutFileExt = stripOrderPrefix(fp.replace(new RegExp(ext + "$"), "")) // Apply stripping here
   if (excludeExt || [".md", ".html", undefined].includes(ext)) {
     ext = ""
   }
@@ -79,6 +80,7 @@ export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
 
   return (slug + ext) as FullSlug
 }
+
 
 export function simplifySlug(fp: FullSlug): SimpleSlug {
   const res = stripSlashes(trimSuffix(fp, "index"), true)
@@ -292,4 +294,10 @@ function _addRelativeToStart(s: string): string {
   }
 
   return s
+}
+
+
+function stripOrderPrefix(s: string): string {
+  // Update regex to match multiple numeric components separated by dots followed by an underscore
+  return s.replace(/^\d+(\.\d+)*_/, '');
 }

@@ -179,7 +179,7 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
         // Single file node
         <li key={node.file.slug}>
           <a href={resolveRelative(fileData.slug!, node.file.slug!)} data-for={node.file.slug}>
-            {node.displayName}
+            {node.displayName.replace(/^\d+\.\d+\s*/, '')}
           </a>
         </li>
       ) : (
@@ -210,11 +210,11 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
                     data-for={node.name}
                     class="folder-title"
                   >
-                    {node.displayName}
+                    {node.displayName.replace(/^\d+\.\d+\s*/, '')}
                   </a>
                 ) : (
                   <button class="folder-button">
-                    <span class="folder-title">{node.displayName}</span>
+                    <span class="folder-title">{node.displayName.replace(/^\d+\.\d+\s*/, '')}</span>
                   </button>
                 )}
               </div>

@@ -27,7 +27,7 @@ const TableOfContents: QuartzComponent = ({
   return (
     <div class={classNames(displayClass, "toc")}>
       <button type="button" id="toc" class={fileData.collapseToc ? "collapsed" : ""}>
-        <h3>{i18n(cfg.locale).components.tableOfContents.title}</h3>
+        <h3>{i18n(cfg.locale).components.tableOfContents.title.replace(/^\d+\.\d+\s*/, '')}</h3>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="24"
@@ -67,7 +67,7 @@ const LegacyTableOfContents: QuartzComponent = ({ fileData, cfg }: QuartzCompone
   return (
     <details id="toc" open={!fileData.collapseToc}>
       <summary>
-        <h3>{i18n(cfg.locale).components.tableOfContents.title}</h3>
+        <h3>{i18n(cfg.locale).components.tableOfContents.title.replace(/^\d+\.\d+\s*/, '')}</h3>
       </summary>
       <ul>
         {fileData.toc.map((tocEntry) => (
