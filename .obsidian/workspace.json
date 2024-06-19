@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/1 manual for users/1.07-buy_monero.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md"
+                "file": "content/1 manual for users/1.07-buy_monero.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/1 manual for users/1.07-buy_monero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/1 manual for users/1.07-buy_monero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,13 +167,20 @@
   },
   "active": "ce369752e9e4cfab",
   "lastOpenFiles": [
+    "create_navlinks.py",
+    "content/1 manual for users/1.08-exchange_monero.md",
+    "content/1 manual for users/1.07-buy_monero.md",
+    "content/1 manual for users/1.06-getting_monero.md",
+    "content/1 manual for users/1.02-get_a_monero_wallet.md",
+    "content/1 manual for users/1.01_get-started.md",
+    "CODE_OF_CONDUCT.md",
+    "content/index.md",
     "quartz/static/og-image.png",
     "quartz/static/Artboard 1.png",
     "content/img/monero-garden-logo.png",
     "content/img/Artboard 1.png",
     "content/3 notes for humans/3.03-is_this_money.md",
     "content/3 notes for humans/3.01-wake_up.md",
-    "content/index.md",
     "content/3 notes for humans/3.11-freedom_of_thought.md",
     "content/3 notes for humans/3.10-pressure_valve.md",
     "content/3 notes for humans/3.09-strings_attached.md",
@@ -190,12 +197,6 @@
     "content/1 manual for users/1.17_donate-monero.md",
     "content/2 blueprint for geeks/2.06-how_much_money.md",
     "content/2 blueprint for geeks/2.09-miners.md",
-    "content/2 blueprint for geeks/2.10-money_ledger.md",
-    "content/2 blueprint for geeks/2.08-proof.md",
-    "content/2 blueprint for geeks/2.07-scarcity.md",
-    "content/2 blueprint for geeks/2.05-value_vs_price.md",
-    "content/2 blueprint for geeks/2.04-money_rules.md",
-    "content/2 blueprint for geeks/2.03-good_money.md",
     "3 the blueprint for makers",
     "content/img",
     "content/New folder",
