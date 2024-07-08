@@ -1,19 +1,40 @@
 ---
-title: Welcome
----
-Imagine yourself crossing a pair of low rusty gates. They’re wide open, and on the side of one of them you notice a little brass sign that reads *Monero Garden*. You start to notice [the subtle noises](https://mynoise.net/NoiseMachines/japaneseGardenSoundscapeGenerator.php) of unseen birds, the waves of foliage swaying with the breeze.  In front of you there’s a worn wooden sign, with a carved map. It looks like a maze of interconnected lines at first glance, like many things in life do, but upon further inspection, you notice there are three main paths to take. 
-## [The manual for users](1.01_get_started.md)
-*(How to use it)*
-If you just need to start using Monero, without dwelling into the explanations of how it works below the hood or why it’s designed the way it is, start here.
-## [The blueprint for geeks](2.01_lets_do_it.md)
-*(How it works)*
-This path will take you uphill into the inner workings of Monero. Let’s create digital cash from scratch, one cog at a time.
-## [The notes for humans](3.01_wake_up.md)
-*(Why it matters)*
-Monero has some very special properties that may be very useful in shaping a different world. Luckily, this path will kick your mind into motion.
-
+title: Hoşgeldin
 ---
 
-There’s no right or wrong way to visit this garden. Three narrow paths of dry soil and scattered pebbles lay in front of you, surrounded by lush plants you haven’t seen before. You gaze at the descriptions, already feeling a little spike in curiosity when reading one of them.
+Kendini küçük ve paslı bir demir parmaklı kapıdan geçerken hayal et.
+Kapı sonuna kadar açık, ve kapıdan geçerken sarı pirinç bir plaka
+üzerinde *Monero Bahçesi* yazan bir tabela görüyorsun.  Tanınmamış
+kuşlara ait [hafif
+sesler](https://mynoise.net/NoiseMachines/japaneseGardenSoundscapeGenerator.php)
+kulaklarına varıyor, önünde rüzgarla eğilip açılan çimeni görüyorsun.
+İlk bakışta karmaşık bir örgü oluşturan desenler onlara tekrar
+baktığın zaman üç ana kola ayrılan patikalara dönüşüyor.
 
-**Click away, and enjoy.**
+## [Kullanıcılar için kılavuz](1.01_get_started.md)
+
+*(Nasıl kullanırım)* Eğer ihtiyacın olan, nasıl çalıştığına bakmadan,
+ne sebeple yaratıldığını anlamadan, sadece Monero'yu kullanmaksa,
+buradan başla.
+
+## [Meraklılar için proje planı](2.01_lets_do_it.md)
+
+*(Nasıl çalışır)* Bu patika seni tepeye çıkan yola götürüp Monero'nun
+nasıl çalıştığını gösterecek.  Haydi parça parça inceleyerek, sıfırdan
+bir sanal para yaratalım.
+
+## [İnsanlar için notlar](3.01_wake_up.md)
+
+*(Neden onemli)* Monero yeni bir dünyayı mümkün etmek için çok
+kullanışlı olan özelliklere sahip.  Bu patika senin aklını harekete
+geçirecek.
+
+---
+
+Bu bahçede gezinmenin doğru veya yanlış yolu yok.  Önünde çakıl
+taşlarıyla bezeli kuru topraktan üç patika var.  Etrafında daha önce
+görmediğin yeşil bitkiler...  Patikaların kısa tariflerine göz
+atarken içindeki merak duygusunun çoktan uyanmakta olduğunu
+hissediyorsun.
+
+**Tıkla sadece, ve keyfini çıkar.**
