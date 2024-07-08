@@ -1,2 +1,3 @@
 node_modules/
-quartz/.quartz-cache
+quartz/.quartz-cache/
+public/
