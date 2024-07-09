@@ -33,6 +33,7 @@ nvm install 18.14
 Now enter the following command to compile the content:
 
 ```bash
+npm i
 npx quartz build --serve
 ```
 
