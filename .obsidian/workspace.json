@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb37f6b45a61aab4",
+        "id": "0a6c71c9b1477ef2",
         "type": "tabs",
         "children": [
           {
-            "id": "ce369752e9e4cfab",
+            "id": "be7249bd3939710a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1 manual for users/1.07-buy_monero.md",
+                "file": "content/1 manual for users/1.5_seed_storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1 manual for users/1.07-buy_monero.md"
+                "file": "content/1 manual for users/1.5_seed_storage.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1 manual for users/1.07-buy_monero.md",
+                "file": "content/1 manual for users/1.5_seed_storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1 manual for users/1.07-buy_monero.md",
+                "file": "content/1 manual for users/1.5_seed_storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce369752e9e4cfab",
+  "active": "be7249bd3939710a",
   "lastOpenFiles": [
+    "content/2 blueprint for geeks/2.16_key_selection.md",
+    "content/1 manual for users/1.10_mine_monero.md",
+    "content/3 notes for humans/3.1_wake_up.md",
+    "content/1 manual for users/1.1_get_started.md",
+    "content/3 notes for humans/3.11_freedom_of_thought.md",
+    "content/img/monero-garden-logo.png",
+    "content/1 manual for users/1.7_buy_monero.md",
     "create_navlinks.py",
     "content/1 manual for users/1.08-exchange_monero.md",
     "content/1 manual for users/1.07-buy_monero.md",
@@ -177,7 +184,6 @@
     "content/index.md",
     "quartz/static/og-image.png",
     "quartz/static/Artboard 1.png",
-    "content/img/monero-garden-logo.png",
     "content/img/Artboard 1.png",
     "content/3 notes for humans/3.03-is_this_money.md",
     "content/3 notes for humans/3.01-wake_up.md",
@@ -192,11 +198,6 @@
     "2.05-value.md",
     "2.02_money-is-a-battery.md",
     "2.01_money-is-a-battery.md",
-    "content/3 notes for humans/3.02-savings.md",
-    "content/2 blueprint for geeks/2.02-money_is_a_battery.md",
-    "content/1 manual for users/1.17_donate-monero.md",
-    "content/2 blueprint for geeks/2.06-how_much_money.md",
-    "content/2 blueprint for geeks/2.09-miners.md",
     "3 the blueprint for makers",
     "content/img",
     "content/New folder",
