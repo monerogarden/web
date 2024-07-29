@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1 manual for users/1.5_seed_storage.md",
+                "file": "content/3 notes for humans/3.10_pressure_valve.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1 manual for users/1.5_seed_storage.md"
+                "file": "content/3 notes for humans/3.10_pressure_valve.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1 manual for users/1.5_seed_storage.md",
+                "file": "content/3 notes for humans/3.10_pressure_valve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1 manual for users/1.5_seed_storage.md",
+                "file": "content/3 notes for humans/3.10_pressure_valve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,37 +167,37 @@
   },
   "active": "be7249bd3939710a",
   "lastOpenFiles": [
-    "content/2 blueprint for geeks/2.16_key_selection.md",
-    "content/1 manual for users/1.10_mine_monero.md",
-    "content/3 notes for humans/3.1_wake_up.md",
-    "content/1 manual for users/1.1_get_started.md",
-    "content/3 notes for humans/3.11_freedom_of_thought.md",
+    "content/3 notes for humans/3.09_strings_attached.md",
+    "content/3 notes for humans/3.08_wisdom_of_the_crowd.md",
+    "content/3 notes for humans/3.07_honest_opinion.md",
+    "content/3 notes for humans/3.06_trying_things.md",
+    "content/3 notes for humans/3.05_fresh_start.md",
+    "content/3 notes for humans/3.04_personal_choice.md",
+    "content/3 notes for humans/3.03_is_this_money.md",
+    "content/3 notes for humans/3.02_savings.md",
+    "content/3 notes for humans/3.01_wake_up.md",
+    "content/2 blueprint for geeks/2.09_miners.md",
+    "content/2 blueprint for geeks/2.08_proof.md",
+    "content/2 blueprint for geeks/2.07_scarcity.md",
+    "content/2 blueprint for geeks/2.06_how_much_money.md",
+    "content/2 blueprint for geeks/2.05_value_vs_price.md",
+    "content/2 blueprint for geeks/2.04_money_rules.md",
+    "content/2 blueprint for geeks/2.03_good_money.md",
+    "content/2 blueprint for geeks/2.02_money_is_a_battery.md",
+    "content/2 blueprint for geeks/2.01_lets_do_it.md",
+    "content/1 manual for users/1.09_earn_monero.md",
+    "content/1 manual for users/1.08_exchange_monero.md",
+    "content/1 manual for users/1.07_buy_monero.md",
+    "content/1 manual for users/1.06_getting_monero.md",
+    "content/1 manual for users/1.05_seed_storage.md",
+    "content/1 manual for users/1.04_the_seed.md",
+    "content/1 manual for users/1.03_be_your_own_bank.md",
+    "content/1 manual for users/1.02_get_a_monero_wallet.md",
     "content/img/monero-garden-logo.png",
-    "content/1 manual for users/1.7_buy_monero.md",
     "create_navlinks.py",
-    "content/1 manual for users/1.08-exchange_monero.md",
-    "content/1 manual for users/1.07-buy_monero.md",
-    "content/1 manual for users/1.06-getting_monero.md",
-    "content/1 manual for users/1.02-get_a_monero_wallet.md",
-    "content/1 manual for users/1.01_get-started.md",
-    "CODE_OF_CONDUCT.md",
-    "content/index.md",
     "quartz/static/og-image.png",
     "quartz/static/Artboard 1.png",
     "content/img/Artboard 1.png",
-    "content/3 notes for humans/3.03-is_this_money.md",
-    "content/3 notes for humans/3.01-wake_up.md",
-    "content/3 notes for humans/3.11-freedom_of_thought.md",
-    "content/3 notes for humans/3.10-pressure_valve.md",
-    "content/3 notes for humans/3.09-strings_attached.md",
-    "content/3 notes for humans/3.08-wisdom_of_the_crowd.md",
-    "content/3 notes for humans/3.07-honest_opinion.md",
-    "content/3 notes for humans/3.06-trying_things.md",
-    "content/3 notes for humans/3.05-fresh_start.md",
-    "content/3 notes for humans/3.04-personal_choice.md",
-    "2.05-value.md",
-    "2.02_money-is-a-battery.md",
-    "2.01_money-is-a-battery.md",
     "3 the blueprint for makers",
     "content/img",
     "content/New folder",
