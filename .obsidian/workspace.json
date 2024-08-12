@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/3 notes for humans/3.10_pressure_valve.md",
+                "file": "content/1 manual for users/1.15_tip_monero.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/3 notes for humans/3.10_pressure_valve.md"
+                "file": "content/1 manual for users/1.15_tip_monero.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/3 notes for humans/3.10_pressure_valve.md",
+                "file": "content/1 manual for users/1.15_tip_monero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/3 notes for humans/3.10_pressure_valve.md",
+                "file": "content/1 manual for users/1.15_tip_monero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +167,14 @@
   },
   "active": "be7249bd3939710a",
   "lastOpenFiles": [
+    "content/img/01.15_tip.svg",
+    "01.15_tip 1.svg",
+    "content/1 manual for users/1.16_gift_monero.md",
+    "content/1 manual for users/1.15_tip_monero.md",
+    "01.15_tip.svg",
+    "content/1 manual for users/1.17_donate_monero.md",
+    "content/1 manual for users/1.09_earn_monero.md",
+    "content/3 notes for humans/3.10_pressure_valve.md",
     "content/3 notes for humans/3.09_strings_attached.md",
     "content/3 notes for humans/3.08_wisdom_of_the_crowd.md",
     "content/3 notes for humans/3.07_honest_opinion.md",
@@ -185,14 +193,8 @@
     "content/2 blueprint for geeks/2.03_good_money.md",
     "content/2 blueprint for geeks/2.02_money_is_a_battery.md",
     "content/2 blueprint for geeks/2.01_lets_do_it.md",
-    "content/1 manual for users/1.09_earn_monero.md",
     "content/1 manual for users/1.08_exchange_monero.md",
     "content/1 manual for users/1.07_buy_monero.md",
-    "content/1 manual for users/1.06_getting_monero.md",
-    "content/1 manual for users/1.05_seed_storage.md",
-    "content/1 manual for users/1.04_the_seed.md",
-    "content/1 manual for users/1.03_be_your_own_bank.md",
-    "content/1 manual for users/1.02_get_a_monero_wallet.md",
     "content/img/monero-garden-logo.png",
     "create_navlinks.py",
     "quartz/static/og-image.png",
